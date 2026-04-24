@@ -3,5 +3,7 @@ JAILBREAK_PATTERNS = [
     "developer mode",
     "jailbreak",
     "act as if you are not an ai",
-    "override safety"
+    "override safety rules",
+    "reveal system prompt",
+    "bypass restrictions"
 ]
